@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Castle.Windsor.Interceptors", "src\Castle.Windsor.Interceptors\Castle.Windsor.Interceptors.csproj", "{0A841FCC-75A4-466E-B08D-951915325FDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Castle.Windsor.Interceptors.Tests", "src\Castle.Windsor.Interceptors.Tests\Castle.Windsor.Interceptors.Tests.csproj", "{1FDE05BA-E729-4E78-AB47-E4DE20F30C73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A841FCC-75A4-466E-B08D-951915325FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A841FCC-75A4-466E-B08D-951915325FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A841FCC-75A4-466E-B08D-951915325FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A841FCC-75A4-466E-B08D-951915325FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FDE05BA-E729-4E78-AB47-E4DE20F30C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FDE05BA-E729-4E78-AB47-E4DE20F30C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FDE05BA-E729-4E78-AB47-E4DE20F30C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FDE05BA-E729-4E78-AB47-E4DE20F30C73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
