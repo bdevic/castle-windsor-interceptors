@@ -1,13 +1,4 @@
-﻿#region File Header
-
-// Author: Bruno Dević
-// Created: 24.01.2013 13:34
-// 
-// Copyright (c) 2013 Intesa SanPaolo Card d.o.o.
-
-#endregion
-
-using System;
+﻿using System;
 using System.Linq;
 using System.Reflection;
 using Castle.DynamicProxy;
